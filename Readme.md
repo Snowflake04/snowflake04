@@ -12,7 +12,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently working on [My portfolio website](https://snowflakes.tech)
+ 🔭 I’m currently working on multiple Projects.
 
  🌱 I’m currently learning **React.js**
 
@@ -20,7 +20,7 @@
 
  📫 Reach out to me: **geevarghese.me@proton.me**
 
- ✍ You can find my resume [here](https://drive.google.com/)
+ ✍ From the southern region of India.
 
  ⚡ Fun fact: **I spend more time on Stack Overflow than VSCode"**
 
