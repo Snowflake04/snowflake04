@@ -4,7 +4,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Freelancer;Open-Source+Enthusiast;Vehicle+Enthusiast" alt="Headline" />
     </div>  
-<p align="center"><a href="https://gee.gtihub.io">Portfolio↗️</a></p>
+<p align="center"><a href="https://mrsnow.tech/">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/snowflake04?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/snowflake04?style=social)<img src="https://komarev.com/ghpvc/?username=snowflake04" alt="" />
