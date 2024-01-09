@@ -9,7 +9,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/snowflake04?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/snowflake04?style=social)<img src="https://komarev.com/ghpvc/?username=snowflake04" alt="" />
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture>  **About Me**
 
 
  🔭 I’m currently working on multiple Projects.
