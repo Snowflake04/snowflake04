@@ -14,7 +14,7 @@
 
  🔭 I’m currently working on multiple Projects.
 
- 🌱 I’m currently learning **React.js**
+ 🌱 I’m currently learning **threejs and ML**
 
  💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
 
